@@ -1,0 +1,364 @@
+{
+   "facts":[
+      {
+         "fact":"When Chuck Norris throws exceptions, it's across the room.",
+         "chuck_norris_approved":"true"
+      },
+      {
+         "fact":"All arrays Chuck Norris declares are of infinite size, because Chuck Norris knows no bounds.",
+         "chuck_norris_approved":"true"
+      },
+      {
+         "fact":"Chuck Norris doesn't have disk latency because the hard drive knows to hurry the hell up.",
+         "chuck_norris_approved":"true"
+      },
+      {
+         "fact":"Chuck Norris writes code that optimizes itself.",
+         "chuck_norris_approved":"true"
+      },
+      {
+         "fact":"Chuck Norris can't test for equality because he has no equal.",
+         "chuck_norris_approved":"true"
+      },
+      {
+         "fact":"Chuck Norris doesn't need garbage collection because he doesn't call .Dispose(), he calls .DropKick().",
+         "chuck_norris_approved":"true"
+      },
+      {
+         "fact":"Chuck Norris' first program was kill -9.",
+         "chuck_norris_approved":"true"
+      },
+      {
+         "fact":"All browsers support the hex definitions #chuck and #norris for the colors black and blue.",
+         "chuck_norris_approved":"true"
+      },
+      {
+         "fact":"MySpace actually isn't your space, it's Chuck's (he just lets you use it).",
+         "chuck_norris_approved":"true"
+      },
+      {
+         "fact":"Chuck Norris can write infinite recursion functions... and have them return.",
+         "chuck_norris_approved":"true"
+      },
+      {
+         "fact":"Chuck Norris can solve the Towers of Hanoi in one move.",
+         "chuck_norris_approved":"true"
+      },
+      {
+         "fact":"Project managers never ask Chuck Norris for estimations... ever!",
+         "chuck_norris_approved":"true"
+      },
+      {
+         "fact":"Chuck Norris doesn't use web standards as the web will conform to him.",
+         "chuck_norris_approved":"true"
+      },
+      {
+         "fact":"\"It works on my machine\" always holds true for Chuck Norris.",
+         "chuck_norris_approved":"true"
+      },
+      {
+         "fact":"Chuck Norris can delete the Recycle Bin.",
+         "chuck_norris_approved":"true"
+      },
+      {
+         "fact":"Chuck Norris' beard can type 140 wpm.",
+         "chuck_norris_approved":"true"
+      },
+      {
+         "fact":"Chuck Norris can unit-test entire applications with a single assert.",
+         "chuck_norris_approved":"true"
+      },
+      {
+         "fact":"Chuck Norris doesn't bug hunt as that signifies a probability of failure, he goes bug killing.",
+         "chuck_norris_approved":"true"
+      },
+      {
+         "fact":"Chuck Norris' keyboard doesn't have a Ctrl key because NOTHING Controls Chuck Norris!",
+         "chuck_norris_approved":"true"
+      },
+      {
+         "fact":"When Chuck Norris is surfing websites on Internet Explorer, he gets this warning message: \"Warning: Internet Explorer has deemed this user to be malicious or dangerous.  Proceed?\".",
+         "chuck_norris_approved":"true"
+      },
+      {
+         "fact":"Fact: Chuck Norris' keyboard has 2 keys: 0 and 1.",
+         "chuck_norris_approved":"true"
+      },
+      {
+         "fact":"Chuck Norris can make a class that is both abstract and final.",
+         "chuck_norris_approved":"true"
+      },
+      {
+         "fact":"Chuck Norris could use anything in java.util.* to kill you, including the javadocs.",
+         "chuck_norris_approved":"true"
+      },
+      {
+         "fact":"Chuck Norris demonstrated the meaning of Float.POSITIVE_INFINITY by counting to it, twice.",
+         "chuck_norris_approved":"true"
+      },
+      {
+         "fact":"A synchronize doesn't protect against Chuck Norris, if he wants the object, he takes it.",
+         "chuck_norris_approved":"true"
+      },
+      {
+         "fact":"Chuck Norris doesn't use javac, he codes java by using a binary editor on the class files.",
+         "chuck_norris_approved":"true"
+      },
+      {
+         "fact":"Chuck Norris' java code never needs to be optimized. His code is so fast that it broke the speed of light during a test run in Sun's labs killing 37 people.",
+         "chuck_norris_approved":"true"
+      },
+      {
+         "fact":"When someone attempts to use one of Chuck Norris' deprecated methods, they automatically get a roundhouse kick to the face at compile time.",
+         "chuck_norris_approved":"true"
+      },
+      {
+         "fact":"The java.lang package originally contained a ChuckNorris class, but it punched its way out the package during a design review and roundhouse kicked Bill Joy in the face.",
+         "chuck_norris_approved":"true"
+      },
+      {
+         "fact":"Chuck Norris never has a bug in his code, EVER!",
+         "chuck_norris_approved":"true"
+      },
+      {
+         "fact":"Chuck Norris doesn't write code. He stares at a computer screen until he gets the progam he wants.",
+         "chuck_norris_approved":"true"
+      },
+      {
+         "fact":"Code runs faster when Chuck Norris watches it.",
+         "chuck_norris_approved":"true"
+      },
+      {
+         "fact":"Chuck Norris' binary edited classes ignore Java bytecode verifier.",
+         "chuck_norris_approved":"true"
+      },
+      {
+         "fact":"Chuck Norris methods don't catch exceptions because no one has the guts to throw any at them.",
+         "chuck_norris_approved":"true"
+      },
+      {
+         "fact":"Chuck Norris will cast a value to any type just by staring at it.",
+         "chuck_norris_approved":"true"
+      },
+      {
+         "fact":"If you get a ChuckNorrisException you'll probably die.",
+         "chuck_norris_approved":"true"
+      },
+      {
+         "fact":"Chuck Norris is the only one who can use goto and const in Java.",
+         "chuck_norris_approved":"true"
+      },
+      {
+         "fact":"Chuck Norris can compile Java code in .NET Framework, obviously just by staring at it.",
+         "chuck_norris_approved":"true"
+      },
+      {
+         "fact":"Chuck Norris' code can roundhouse kick all other Java Objects' privates.",
+         "chuck_norris_approved":"true"
+      },
+      {
+         "fact":"Chuck Norris eats JavaBeans and Roundhouse Kicks JavaServer Faces!",
+         "chuck_norris_approved":"true"
+      },
+      {
+         "fact":"Chuck Norris can divide by 0!",
+         "chuck_norris_approved":"true"
+      },
+      {
+         "fact":"Garbage collector only runs on Chuck Norris' code to collect the bodies.",
+         "chuck_norris_approved":"true"
+      },
+      {
+         "fact":"Every single line code of Chuck Norris runs in real time. Even in a multi threading application.",
+         "chuck_norris_approved":"true"
+      },
+      {
+         "fact":"When a CPU loads a Chuck Norris class file, it doubles the speed.",
+         "chuck_norris_approved":"true"
+      },
+      {
+         "fact":"Chuck Norris can execute 64bit length instructions in a 32bit CPU.",
+         "chuck_norris_approved":"true"
+      },
+      {
+         "fact":"Chuck Norris implements \"Indestructible\". All the other creatures implements \"Killable\".",
+         "chuck_norris_approved":"true"
+      },
+      {
+         "fact":"Chuck Norris only programs Java web applications to get a .WAR in the end.",
+         "chuck_norris_approved":"true"
+      },
+      {
+         "fact":"Chuck Norris once roundhouse kicked a Java class very hard. The result is known as a inner class.",
+         "chuck_norris_approved":"true"
+      },
+      {
+         "fact":"Chuck Norris can do multiple inheritance in Java.",
+         "chuck_norris_approved":"true"
+      },
+      {
+         "fact":"JVM never throws exceptions to Chuck Norris, not anymore. 753 killed Sun engineers is enough.",
+         "chuck_norris_approved":"true"
+      },
+      {
+         "fact":"Chuck Norris doesn't need unit tests because his code always works. ALWAYS.",
+         "chuck_norris_approved":"true"
+      },
+      {
+         "fact":"Chuck Norris extends God.",
+         "chuck_norris_approved":"true"
+      },
+      {
+         "fact":"Chuck Norris' classes can't be decompiled... don't bother trying.",
+         "chuck_norris_approved":"true"
+      },
+      {
+         "fact":"Chuck Norris can use pointers in Java.",
+         "chuck_norris_approved":"true"
+      },
+      {
+         "fact":"Chuck Norris can override a final function.",
+         "chuck_norris_approved":"true"
+      },
+      {
+         "fact":"Java visibility levels are public, default, protected, private and \"protected by Chuck Norris\", don't try to access a field with this last modifier or you will get a Roundhouse kick to the face at runtime.",
+         "chuck_norris_approved":"true"
+      },
+      {
+         "fact":"Attempting to throw a ChuckNorrisException will result in failure and will terminate your program. Why? Because, you don't throw Chuck Norris... Chuck Norris throws YOU!",
+         "chuck_norris_approved":"true"
+      },
+      {
+         "fact":"Chuck writes directly in binary. He then writes the source code as documentation for other developers.",
+         "chuck_norris_approved":"true"
+      },
+      {
+         "fact":"Chuck was forced to invent asynchronous APIs one day when he optimized a function so that it returned before it was invoked.",
+         "chuck_norris_approved":"true"
+      },
+      {
+         "fact":"Chuck Norris wrote a complete Perl 6 implementation in a day, but then destroyed all evidence with his bare hands, so no one will know his secrets.",
+         "chuck_norris_approved":"true"
+      },
+      {
+         "fact":"Chuck Norris refactors 10 million lines of Perl code before lunch.",
+         "chuck_norris_approved":"true"
+      },
+      {
+         "fact":"Chuck Norris does not code; when he sits at a computer, it just does whatever he wants.",
+         "chuck_norris_approved":"true"
+      },
+      {
+         "fact":"Chuck Norris doesn't make mistakes. He corrects God.",
+         "chuck_norris_approved":"true"
+      },
+      {
+         "fact":"Code is too scared of Chuck Norris to be wrong.",
+         "chuck_norris_approved":"true"
+      },
+      {
+         "fact":"Chuck Norris has actually been using Perl 6 since 1987, and has been waiting for Larry to play catch-up.",
+         "chuck_norris_approved":"true"
+      },
+      {
+         "fact":"\"My only boss is God. And Chuck Norris who is his boss.\"",
+         "chuck_norris_approved":"true"
+      },
+      {
+         "fact":"Chuck Norris writes understandable Perl code.",
+         "chuck_norris_approved":"true"
+      },
+      {
+         "fact":"Chuck Norris can read Perl code that was RSA encrypted.",
+         "chuck_norris_approved":"true"
+      },
+      {
+         "fact":"Chuck Norris once wrote a 10 million lines C++ program in Microsoft Notepad without having to use the backspace key. And it compiled without errors or warnings, and was 100% bug-free.",
+         "chuck_norris_approved":"true"
+      },
+      {
+         "fact":"Only perl and Chuck Norris can parse Perl.",
+         "chuck_norris_approved":"true"
+      },
+      {
+         "fact":"All Chuck Norris has to do is look at Perl code and it interprets itself out of fear and respect.",
+         "chuck_norris_approved":"true"
+      },
+      {
+         "fact":"Chuck Norris wrote a program in Python that was easier to understand after being encrypted with RSA.",
+         "chuck_norris_approved":"true"
+      },
+      {
+         "fact":"The SQL condition \"LIKE '%Chuck Norris%'\" can only return Chuck Norris himself. Because nothing is like Chuck Norris.",
+         "chuck_norris_approved":"true"
+      },
+      {
+         "fact":"Chuck Norris is never shown a login window. The computers sense his awesomeness and automagically log him in with administrator privileges.",
+         "chuck_norris_approved":"true"
+      },
+      {
+         "fact":"sudo is an alias for \"do this or i will roundhouse kick you\".",
+         "chuck_norris_approved":"true"
+      },
+      {
+         "fact":"In C++ you only need to #include <ChuckNorris>.",
+         "chuck_norris_approved":"true"
+      },
+      {
+         "fact":"Chuck Norris' Keyboard does not have any F1 key, he never needs any help.",
+         "chuck_norris_approved":"true"
+      },
+      {
+         "fact":"Chuck Norris has no need for a compress utility. He just stares at the files and they shrink in fear.",
+         "chuck_norris_approved":"true"
+      },
+      {
+         "fact":"Chuck Norris debugs binary code using a pencil and a sheet of paper.",
+         "chuck_norris_approved":"true"
+      },
+      {
+         "fact":"It was Chuck Norris that bit the apple in the Apple logo.",
+         "chuck_norris_approved":"true"
+      },
+      {
+         "fact":"Chuck Norris uses windows 64 bit on 32 bit machine.",
+         "chuck_norris_approved":"true"
+      },
+      {
+         "fact":"The C in \"C language\" means Chuck.",
+         "chuck_norris_approved":"true"
+      },
+      {
+         "fact":"An infinite loop in a Chuck Norris program takes 2.1 seconds to finish.",
+         "chuck_norris_approved":"true"
+      },
+      {
+         "fact":"Chuck Norris' code has no error handling. Chuck Norris' code has no errors.",
+         "chuck_norris_approved":"true"
+      },
+      {
+         "fact":"Chuck Norris's preferred sorting algorithm is killsort. It kills everything that is out of place.",
+         "chuck_norris_approved":"true"
+      },
+      {
+         "fact":"fork() in a Chuck Norris program returns a roundhouse kick in the face... there can be only one!!!",
+         "chuck_norris_approved":"true"
+      },
+      {
+         "fact":"In plain C# every statement ends with a semicolon. But in Chuck Norris C# code all statements end with one or more exclamation marks. Because everything Chuck Norris does is amazing!",
+         "chuck_norris_approved":"true"
+      },
+      {
+         "fact":"Chuck Norris can deny the \"License Agreement\" and still be able to install the software.",
+         "chuck_norris_approved":"true"
+      },
+      {
+         "fact":"Google won't search for Chuck Norris because it knows you don't find Chuck Norris, he finds you.",
+         "chuck_norris_approved":"true"
+      },
+      {
+         "fact":"Chuck Norris wrote Hello World once... it was called Unix.",
+         "chuck_norris_approved":"true"
+      }
+   ]
+}
