@@ -1,5 +1,5 @@
-# Chuck Norris Geeky Facts
-Chuck Norris Geeky Facts smartphone app generator
+# Chuck Norris Computer Facts
+Chuck Norris Computer Facts smartphone app generator
 
 # Screenshot 
 
